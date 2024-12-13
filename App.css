@@ -1,0 +1,17 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .image-container img {
+    width: 100px;
+    height: 100px;
+  }
+}
